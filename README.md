@@ -1,4 +1,5 @@
-# Rank 512/30000 ML Challenge 2026: Business Entity Resolution Solution
+# Rank 512 ML Challenge 2026: Business Entity Resolution Solution
+Out of 30000 submissions
 
 **Team Name:** Ninja mutant turtles <br>
 **Team Mates:** [Mohikshit Ghorai](https://github.com/psycocodes) , [Priyansh Ghosh](https://github.com/Pri-codes-10) , [Debjit Bhunia](https://github.com/Dpythonl) <br>
