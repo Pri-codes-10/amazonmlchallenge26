@@ -1,4 +1,4 @@
-# Rank 512 ML Challenge 2026: Business Entity Resolution Solution
+# Rank 512/30000 ML Challenge 2026: Business Entity Resolution Solution
 
 **Team Name:** Ninja mutant turtles
 **Submission Date:** 2026-09-29
